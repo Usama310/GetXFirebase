@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470132783737",
+    "project_id": "tadas-42416",
+    "storage_bucket": "tadas-42416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470132783737:android:d9c2133326952f9126b2a8",
+        "android_client_info": {
+          "package_name": "com.virtualsoft.flutterbackend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470132783737-tieqi9306hgt0qfvs4apjjhioj93rbtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virtualsoft.flutterbackend",
+            "certificate_hash": "bee195ccb0751120f92c780b86d25b4e441455e1"
+          }
+        },
+        {
+          "client_id": "470132783737-ipmu0g38omrga0a8kkh5i3415l1lnu22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5F6JpnfUERI6wKBBLePUOnCP4bhiEbu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470132783737-ipmu0g38omrga0a8kkh5i3415l1lnu22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
